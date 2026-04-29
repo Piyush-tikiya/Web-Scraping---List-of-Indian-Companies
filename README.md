@@ -63,7 +63,7 @@ along with:
 
 ## ***📸 Project Screenshot***
 
-https://github.com/Piyush-tikiya/Web-Scraping---List-of-Indian-Companies/blob/main/w.png
+https://github.com/Piyush-tikiya/Web-Scraping---List-of-Indian-Companies/blob/main/w.png <br/>
 https://github.com/Piyush-tikiya/Web-Scraping---List-of-Indian-Companies/blob/main/list_of_companies.png
 
 ## ***📁 Final Output***
